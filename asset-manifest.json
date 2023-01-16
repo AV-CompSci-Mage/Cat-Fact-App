@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Cat-Fact-App/static/css/main.cf605ac3.css",
-    "main.js": "/Cat-Fact-App/static/js/main.67f68446.js",
+    "main.js": "/Cat-Fact-App/static/js/main.9c55120d.js",
     "static/js/787.28cb0dcd.chunk.js": "/Cat-Fact-App/static/js/787.28cb0dcd.chunk.js",
     "static/media/cat.png": "/Cat-Fact-App/static/media/cat.1a2022c8912f56423bee.png",
     "index.html": "/Cat-Fact-App/index.html",
     "main.cf605ac3.css.map": "/Cat-Fact-App/static/css/main.cf605ac3.css.map",
-    "main.67f68446.js.map": "/Cat-Fact-App/static/js/main.67f68446.js.map",
+    "main.9c55120d.js.map": "/Cat-Fact-App/static/js/main.9c55120d.js.map",
     "787.28cb0dcd.chunk.js.map": "/Cat-Fact-App/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf605ac3.css",
-    "static/js/main.67f68446.js"
+    "static/js/main.9c55120d.js"
   ]
 }
