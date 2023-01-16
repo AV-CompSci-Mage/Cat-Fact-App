@@ -1,7 +1,7 @@
 import cat from './cat.png'; //logo for my app! found here: https://www.pngplay.com/image/374720
 import github from './github.png'; 
 import './App.css';
-import React, { useState, useEffect } from 'react'; //useState used as per the instructions
+import React, { useState} from 'react'; //useState used as per the instructions
 
 
 
@@ -37,9 +37,6 @@ function App()
         <p>Click here for your cat fact!</p>
         <button onClick={fetchData}>Click Me</button>
         {error && <p>{error}</p>}
-        {useEffect(() => {
-        fetchData()
-                  }, [])}
         {data.length > 0 && ( //checks to see if the length of the string for data is more than 0
           <ul>
           {data.fact}
