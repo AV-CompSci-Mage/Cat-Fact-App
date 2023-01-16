@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={rat} className="App-logo" alt="logo" />
         <p>
-          Programming in progress! Please pet the rat while you wait.
+          Uh Oh! Something went terribly wrong! Please pet the rat while you wait for the Mage to fix it.
         </p>
       </header>
     </div>
